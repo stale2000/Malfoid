@@ -11,4 +11,6 @@ Use this folder to keep track of stories and visual references that inform Malfo
 - Treat downloaded material as private reference. Do not copy its prose, dialogue, art, audio, or shot design into the project unless the contributor has permission and the reuse is documented.
 - Commit only the catalog, original project notes, and permitted metadata. Never commit downloaded works, art, embedded media, private screenshots, or voice samples. Link publicly to creator pages or authorized releases instead.
 
+The [creator directory](creator-directory.md) is a user-supplied list of artists, animators, writers, and other project inspirations. Its profile URLs are leads constructed from handles and are not verified endorsements or credits.
+
 The local design-reference set currently copied into `downloads/images/malfoid-long-hair/` is private and ignored by Git. The tracked catalog records its attribution and reuse limits.
