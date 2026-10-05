@@ -10,9 +10,23 @@ Malfoid reimagines *Harry Potter and the Philosopher’s Stone* as a feature-len
 
 Bring the whole first-film adventure to life as anime, scene by scene—from script and character design to voices, storyboards, animation, music, and sound.
 
-## Join the production
+## Feature checklist
 
-Help bring Malfoid to the screen. Pitch a scene, help shape the anime look, or share a story idea. [Pitch in on GitHub](https://github.com/stale2000/Malfoid/issues/new) or [read the contribution guide](CONTRIBUTING.md).
+- [x] **Prove the anime direction:** a short Mirror of Erised scene exists as a local proof of concept.
+- [ ] **Lock the story and script:** shape the full feature so Draconia has her own goals, relationships, and choices throughout the adventure.
+- [ ] **Finish the anime design bible:** settle character sheets, expressions, costumes, Hogwarts locations, props, color, lighting, and spell effects.
+- [ ] **Set the voices and sound:** finalize performances and pronunciation; plan dialogue recording, music, effects, and the final mix.
+- [ ] **Break the script into scenes and shots:** assign stable IDs, plan each scene's emotional turn and camera work, then board and time it in an animatic.
+- [ ] **Make the scene workflow repeatable:** take a scene from approved script and designs through voices, animation, compositing, and review; record the tools, inputs, effort, and reusable sources.
+- [ ] **Build the feature scene by scene:** animate and assemble each shot, reusing approved designs and locations while checking continuity across the film.
+- [ ] **Finish and review the feature:** complete editing, music and sound, captions, credits, and a full-film picture and audio review.
+- [ ] **Release the project in parts:** publish story, artwork, video, workflows, and tools with their creators, sources, and reuse terms documented.
+
+## Help build it
+
+Pick a task above, pitch a scene, or help shape the anime look. [Open an issue](https://github.com/stale2000/Malfoid/issues/new) to share an idea or discuss how to take on a task; [read the contribution guide](CONTRIBUTING.md) before sending work.
+
+A great first contribution: pitch a Draconia-and-Harry scene with a clear goal, conflict, and emotional turn.
 
 [Explore the production plan](docs/production-plan.md) · [Read about the local source movie](docs/source-material.md)
 
