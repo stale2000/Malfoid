@@ -1,6 +1,6 @@
 # Local downloaded references
 
-This directory is intentionally excluded from Git. Keep permitted downloaded stories, art, audio, and video here for private research; never force-add these files to a public commit. The tracked source index and per-source download/update instructions are at `../sources.md`.
+Downloaded stories, art, audio, and video in this directory stay local for private research and must not be committed. The three tracked `.txt` files under `stories/` are link-only reference notes; they contain titles and canonical AO3 links, not story text. The tracked source index and per-source download/update instructions are at `../sources.md`.
 
 ## Download and refresh routine
 
@@ -12,6 +12,6 @@ This directory is intentionally excluded from Git. Keep permitted downloaded sto
 
 Subfolders:
 
-- `stories/` — private reading copies where downloading is permitted.
+- `stories/` — private reading copies where downloading is permitted; tracked text notes contain links only.
 - `images/` — private visual references; record creator, source, and use limits beside each set.
 - Add `audio/` or `video/` only when needed, and document source and permission before saving material.

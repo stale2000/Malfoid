@@ -1,0 +1,1834 @@
+{
+  "schema_version": 1,
+  "creators": [
+    {
+      "handle": "1r3nee_",
+      "profile_url": "https://x.com/1r3nee_",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "1stameriboo",
+      "profile_url": "https://x.com/1stameriboo",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "_Malfoid_",
+      "profile_url": "https://x.com/_Malfoid_",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "aideekayy69",
+      "profile_url": "https://x.com/aideekayy69",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Alessandro49472",
+      "profile_url": "https://x.com/Alessandro49472",
+      "categories": [
+        "Individuals producing scores, songs, or tracks"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "The supplied directory links to an X post; activity and project type were not independently verified in this pass.",
+      "works": [
+        {
+          "title": "User-supplied X post",
+          "url": "https://x.com/Alessandro49472/status/2106443797618143266?s=20",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "AllbonesJones",
+      "profile_url": "https://x.com/AllbonesJones",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Aloofcannon",
+      "profile_url": "https://x.com/Aloofcannon",
+      "categories": [
+        "Individuals producing fanfics (varying length)",
+        "Miscellaneous individuals with useful prompts (story frames / ideas)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "An indexed post says the Malfoid trend prompted the creator out of writer’s block, but no specific finished story or project link was verified.",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "Profile only: https://x.com/Aloofcannon. No direct story link found in this pass."
+    },
+    {
+      "handle": "ammonoid9",
+      "profile_url": "https://x.com/ammonoid9",
+      "categories": [
+        "Individuals producing comic-style, fanfic-esque art",
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "anikhang",
+      "profile_url": "https://x.com/anikhang",
+      "categories": [
+        "Individuals producing animation (audio / no audio)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Patreon creator AniKhang published short Malfoid animations in late September and early October 2026.",
+      "works": [
+        {
+          "title": "Female Malfoy Everywhere (Short)",
+          "url": "https://www.patreon.com/AniKhang",
+          "source_updated": "2026-09-29",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the creator’s Patreon post/video access controls; account or membership access may be required. Sitemap: https://www.patreon.com/cw/AniKhang/sitemap"
+        },
+        {
+          "title": "Draco holds her child (short)",
+          "url": "https://www.patreon.com/AniKhang",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the creator’s Patreon post/video access controls; account or membership access may be required. Sitemap: https://www.patreon.com/cw/AniKhang/sitemap"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "ashaoguant60501",
+      "profile_url": "https://x.com/ashaoguant60501",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Indexed HP/Draco artwork was found, including an older Drarry image; no Malfoid story was identified.",
+      "works": [
+        {
+          "title": "Drarry mistletoe art",
+          "url": "https://x.com/ashaoguant60501/status/1903258700757819627",
+          "source_updated": "2025-03-22 (UTC date from post ID)",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the X post link; download only with creator permission or platform-enabled controls."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "AsuzuReincarnat",
+      "profile_url": "https://x.com/AsuzuReincarnat",
+      "categories": [
+        "Individuals producing animation (audio / no audio)",
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Produces Malfoid animation; an animation titled Sectumsempra and an Aftermath sequel were indexed.",
+      "works": [
+        {
+          "title": "Sectumsempra animation / aftermath lead",
+          "url": "https://x.com/AsuzuReincarnat/status/2106037673504944560",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Use X’s built-in video download only if the creator enabled it; otherwise use the post link or request a copy from the creator.",
+          "notes": "Contemporaneous summary: https://catholicbirder.substack.com/p/malfoid-an-analysis"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "atomika39",
+      "profile_url": "https://x.com/atomika39",
+      "categories": [
+        "Individuals producing animation (audio / no audio)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Third-party indexing shows a finished Malfoid animatic and a Yule Ball work-in-progress; exact official post IDs were not recovered.",
+      "works": [
+        {
+          "title": "Malfoid animatic / Yule Ball WIP",
+          "url": "https://x.com/atomika39",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Use X’s built-in video download only if enabled; otherwise keep the creator profile/post link or request a copy.",
+          "notes": "Discovery mirror (not the creator source): https://www.twstalker.com/Jason41026936. Confirm direct post links before citing this as a release."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "baitundschalter",
+      "profile_url": "https://x.com/baitundschalter",
+      "categories": [
+        "Individuals producing animation (audio / no audio)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Bakacorgi",
+      "profile_url": "https://x.com/Bakacorgi",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Third-party indexing shows a Malfoid/Slytherin dark-prophecy scene illustration; no linked story was found.",
+      "works": [
+        {
+          "title": "Malfoid scene art lead",
+          "url": "https://x.com/Bakacorgi",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Profile link only; use creator-provided or platform-enabled download controls.",
+          "notes": "Third-party indexed source: https://www.twstalker.com/IlMan30864523; exact direct X post was not recovered."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "basedbinkie",
+      "profile_url": "https://x.com/basedbinkie",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "BBlueContrail",
+      "profile_url": "https://x.com/BBlueContrail",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "BCarpenterBooks",
+      "profile_url": "https://x.com/BCarpenterBooks",
+      "categories": [
+        "Miscellaneous individuals with useful prompts (story frames / ideas)"
+      ],
+      "status": "unverified",
+      "checked_on": "2026-10-05",
+      "summary": "Search results identify an unrelated fantasy-author project; no Malfoid/HP work was found in this pass.",
+      "works": [
+        {
+          "title": "Author profile / non-Malfoid books",
+          "url": "https://x.com/BCarpenterBooks",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Use publisher/store links offered by the author; no Malfoid download applies."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "BeruangPutih80",
+      "profile_url": "https://x.com/BeruangPutih80",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Bramovan",
+      "profile_url": "https://x.com/Bramovan",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "CaboVT",
+      "profile_url": "https://x.com/CaboVT",
+      "categories": [
+        "Miscellaneous individuals with useful prompts (story frames / ideas)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Indexed a first-year motivation idea around jealousy of Hermione’s academic praise and using Quidditch to impress Harry; no full prose link was found.",
+      "works": [
+        {
+          "title": "First-year jealousy / Quidditch scene prompt",
+          "url": "https://x.com/search?q=from%3ACaboVT%20%22Every%20single%20question%20Granger%20gets%20right%22",
+          "source_updated": "2026-10-05",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Search result/mirror evidence only; confirm a direct post URL in the creator profile."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "cakenyamnyamz",
+      "profile_url": "https://x.com/cakenyamnyamz",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Callisto_12d",
+      "profile_url": "https://x.com/Callisto_12d",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "ChimaeraSCRE",
+      "profile_url": "https://x.com/ChimaeraSCRE",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Chrispyy_0",
+      "profile_url": "https://x.com/Chrispyy_0",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "chyoozu",
+      "profile_url": "https://x.com/chyoozu",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Coolboy1234510",
+      "profile_url": "https://x.com/Coolboy1234510",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Critical_Scribe",
+      "profile_url": "https://x.com/Critical_Scribe",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "A four-post story idea places Draconia and Harry in the Forbidden Forest; indexed thread indicates she subconsciously stays close to him when frightened.",
+      "works": [
+        {
+          "title": "Forbidden Forest story idea thread",
+          "url": "https://x.com/Critical_Scribe/status/2105213436166557748",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Rattibha unroll: https://en.rattibha.com/thread/2105213436166557748"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "custardseeks",
+      "profile_url": "https://x.com/custardseeks",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "D0l0s1",
+      "profile_url": "https://x.com/D0l0s1",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "DANCHUKKEY",
+      "profile_url": "https://x.com/DANCHUKKEY",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "dante1308virgil",
+      "profile_url": "https://x.com/dante1308virgil",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "DatingSims",
+      "profile_url": "https://x.com/DatingSims",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Devon_Eriksen_",
+      "profile_url": "https://x.com/Devon_Eriksen_",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "DivinaCalamis",
+      "profile_url": "https://x.com/DivinaCalamis",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "DocOctArts",
+      "profile_url": "https://x.com/DocOctArts",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "DodgerWing",
+      "profile_url": "https://x.com/DodgerWing",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Dontmesswosint",
+      "profile_url": "https://x.com/Dontmesswosint",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "A public post was indexed discussing a race to produce a first-book Malfoid rewrite; no actual draft or story was found.",
+      "works": [
+        {
+          "title": "First-book rewrite discussion",
+          "url": "https://x.com/Dontmesswosint",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Only a profile-level link and third-party repost were recovered; exact post permalink is not confirmed."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Dumb_Marketing_",
+      "profile_url": "https://x.com/Dumb_Marketing_",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "earlynegurin",
+      "profile_url": "https://x.com/earlynegurin",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "eternal_prey",
+      "profile_url": "https://x.com/eternal_prey",
+      "categories": [
+        "Miscellaneous individuals with useful prompts (story frames / ideas)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Shared Malfoid combat-training and dueling characterization; this is a character prompt, not a linked finished story.",
+      "works": [
+        {
+          "title": "Combat-training character prompt",
+          "url": "https://x.com/search?q=from%3Aeternal_prey%20%22Lyra%20Malfoy%20excels%20at%20magical%20combat%22",
+          "source_updated": "2026-10-05",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Search result/mirror evidence only; confirm a direct post URL in the creator profile."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "FIREPILLAR_NSFW",
+      "profile_url": "https://x.com/FIREPILLAR_NSFW",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Florida_Boi1",
+      "profile_url": "https://x.com/Florida_Boi1",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "gavivilla_blogs",
+      "profile_url": "https://x.com/gavivilla_blogs",
+      "categories": [
+        "Individuals producing animation (audio / no audio)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "GenIronwood",
+      "profile_url": "https://x.com/GenIronwood",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "The author describes an entry in the Malfoid event whose first story covers Year One. The AO3 work is complete; scope beyond Year One is not verified.",
+      "works": [
+        {
+          "title": "AO3 work 93789121 (title not captured)",
+          "url": "https://archiveofourown.org/works/93789121",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Open the AO3 work and use its Download menu if offered; choose EPUB/HTML/PDF. Refresh a WIP by downloading again. Save private copies only under the ignored downloads folder.",
+          "notes": "Title and source update date were not captured in the earlier listing."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "ggwpjgdiff",
+      "profile_url": "https://x.com/ggwpjgdiff",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "ghanaminwoods",
+      "profile_url": "https://x.com/ghanaminwoods",
+      "categories": [
+        "Individuals producing fanfics (varying length)",
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "grimoire_eis",
+      "profile_url": "https://x.com/grimoire_eis",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "grizz056",
+      "profile_url": "https://x.com/grizz056",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "GuardTm",
+      "profile_url": "https://x.com/GuardTm",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Guardbro stated an intention to rewrite the first book with Malfoid; no completed story was confirmed.",
+      "works": [
+        {
+          "title": "First-book rewrite intention",
+          "url": "https://x.com/GuardTm/status/2106052396359303218",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Intent only; not a downloadable completed work."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "HalfTangible",
+      "profile_url": "https://x.com/HalfTangible",
+      "categories": [
+        "Miscellaneous individuals with useful prompts (story frames / ideas)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "An indexed short Yule Ball scene has Harry explain an invitation as the result of a lost bet; no direct status permalink was recovered.",
+      "works": [
+        {
+          "title": "Yule Ball scene snippet",
+          "url": "https://x.com/search?q=from%3AHalfTangible%20%22I%20lost%20a%20bet%22%20Malfoid",
+          "source_updated": "2026-10-03",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Search query and third-party index only; confirm the exact post before relying on this summary."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "HariSel57511397",
+      "profile_url": "https://x.com/HariSel57511397",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Haru_Hogomi",
+      "profile_url": "https://x.com/Haru_Hogomi",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "hayes_gens",
+      "profile_url": "https://x.com/hayes_gens",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "HeartWarmWorkS",
+      "profile_url": "https://x.com/HeartWarmWorkS",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "HenshinHarrison",
+      "profile_url": "https://x.com/HenshinHarrison",
+      "categories": [
+        "Individuals producing comic-style, fanfic-esque art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "HHHarukaz",
+      "profile_url": "https://x.com/HHHarukaz",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "househusband03",
+      "profile_url": "https://x.com/househusband03",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Jourd4n_",
+      "profile_url": "https://x.com/Jourd4n_",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Credited as cover artist for a WebNovel Harry/Malfoid story by ShurainaWest; do not attribute authorship to the artist.",
+      "works": [
+        {
+          "title": "Harry Potter: Please Don’t Bully Me, Malfoy! (by ShurainaWest; @Jourd4n_ credited for cover)",
+          "url": "https://www.webnovel.com/book/harry-potter-please-don%27t-bully-me-malfoy%21_37059551508355405",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Link-only; the WebNovel page/app is the reading source. No official export/download option was verified.",
+          "notes": "The indexed page showed one chapter. Art credit/source post: https://x.com/Jourd4n_/status/2104716476544598367"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Jovem_Carillon",
+      "profile_url": "https://x.com/Jovem_Carillon",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "kamamarata",
+      "profile_url": "https://x.com/kamamarata",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "kekel0212",
+      "profile_url": "https://x.com/kekel0212",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "KingChud420",
+      "profile_url": "https://x.com/KingChud420",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "KitsuneTradeVT",
+      "profile_url": "https://x.com/KitsuneTradeVT",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Kkorn_tube",
+      "profile_url": "https://x.com/Kkorn_tube",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "KurenaiV2",
+      "profile_url": "https://x.com/KurenaiV2",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "kuro_orukaart",
+      "profile_url": "https://x.com/kuro_orukaart",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Lamer5799",
+      "profile_url": "https://x.com/Lamer5799",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "lapseR8wx",
+      "profile_url": "https://x.com/lapseR8wx",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)",
+        "Collaborators"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "lattekoi5252",
+      "profile_url": "https://x.com/lattekoi5252",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "lazer_groove",
+      "profile_url": "https://x.com/lazer_groove",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "lee2782",
+      "profile_url": "https://x.com/lee2782",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "An indexed Japanese post shows Harry/Draco teaming up against Voldemort; this is artwork, not a verified story.",
+      "works": [
+        {
+          "title": "Harry and Draco art post (direct status URL not recovered)",
+          "url": "https://www.zamantika.com/profile/hayasaka_aryan",
+          "source_updated": "2026-10-05",
+          "checked_on": "2026-10-05",
+          "download_method": "Link-only; use the creator’s source page and platform controls. Do not infer story authorship from the illustration."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Lenosallose",
+      "profile_url": "https://x.com/Lenosallose",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "LibertyPat4c",
+      "profile_url": "https://x.com/LibertyPat4c",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Publicly shared a seven-book Harry/Malfoid enemies-to-lovers outline; this is a story plan, not a confirmed published fic.",
+      "works": [
+        {
+          "title": "Seven-book Malfoid outline",
+          "url": "https://x.com/LibertyPat4c/status/2104805705936949692",
+          "source_updated": "2026-09-29",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "A contemporaneous Substack summary corroborates the post and date: https://catholicbirder.substack.com/p/malfoid-an-analysis"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "lord_triangle",
+      "profile_url": "https://x.com/lord_triangle",
+      "categories": [
+        "Collaborators"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Malfoid_believr",
+      "profile_url": "https://x.com/Malfoid_believr",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "manapilyo",
+      "profile_url": "https://x.com/manapilyo",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "unverified",
+      "checked_on": "2026-10-05",
+      "summary": "Indexed recent work is mainly unrelated fandom art; no Malfoid story was found.",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "Search result source: https://www.twstalker.com/pmluv115. Verify the account directly before marking inactive."
+    },
+    {
+      "handle": "MaroonR19",
+      "profile_url": "https://x.com/MaroonR19",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "mawsteryowda_",
+      "profile_url": "https://x.com/mawsteryowda_",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Medviah",
+      "profile_url": "https://x.com/Medviah",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "midenmaaaru",
+      "profile_url": "https://x.com/midenmaaaru",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "mirxclesss",
+      "profile_url": "https://x.com/mirxclesss",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Published a Malfoid illustration; no story or downloadable text project was found.",
+      "works": [
+        {
+          "title": "Malfoid illustration",
+          "url": "https://x.com/mirxclesss/status/2106038932710563869",
+          "source_updated": "2026-10-04",
+          "checked_on": "2026-10-05",
+          "download_method": "Bookmark the X post; use only creator-enabled media download or request a copy."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "moonlightbro",
+      "profile_url": "https://x.com/moonlightbro",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Posts a Mirror-of-Erised crush setup and a separate magical-denial premise; Kevin Le Guillou credited moonlightbro as story author for an anime test.",
+      "works": [
+        {
+          "title": "Mirror of Erised story setup",
+          "url": "https://x.com/moonlightbro/status/2106494925265084611",
+          "source_updated": "2026-10-03",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media."
+        },
+        {
+          "title": "Love Potion story animation test (story credit)",
+          "url": "https://x.com/kevinleguillou/status/2106864655989612792",
+          "source_updated": "2026-10-04",
+          "checked_on": "2026-10-05",
+          "download_method": "Link only; open creator post. No official story-file download was found.",
+          "notes": "The animation test credits moonlightbro for the story and @Reia_76 for base art."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "MrOvis2",
+      "profile_url": "https://x.com/MrOvis2",
+      "categories": [
+        "Miscellaneous individuals with useful prompts (story frames / ideas)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Shared a story-frame and character-analysis post; it is an ideation prompt rather than a full story.",
+      "works": [
+        {
+          "title": "Character/story-frame post",
+          "url": "https://x.com/MrOvis2/status/2105215931257426290",
+          "source_updated": "2026-10-01",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Rattibha unroll: https://en.rattibha.com/thread/2105215931257426290"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "nekokota_koume",
+      "profile_url": "https://x.com/nekokota_koume",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "unverified",
+      "checked_on": "2026-10-05",
+      "summary": "A current Malfoid-related repost was indexed, but its text and original work link were not exposed; no story identified.",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "Third-party discovery only: https://twstalker.com/kakkerne. Direct profile is https://x.com/nekokota_koume."
+    },
+    {
+      "handle": "nightowl_trades",
+      "profile_url": "https://x.com/nightowl_trades",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "A first-year story lead is titled “Draconia Malfoy and the Boy Who Said No.” A related itch.io visual-novel adaptation is credited to Avrana and described as loosely based on a Wattpad story by nomootwo; that adaptation is not by this X account.",
+      "works": [
+        {
+          "title": "First-year story lead: Draconia Malfoy and the Boy Who Said No",
+          "url": "https://x.com/nightowl_trades",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Exact direct post/work URL and original Wattpad story link were not recovered."
+        },
+        {
+          "title": "Related itch.io VN adaptation (not authored by this X account)",
+          "url": "https://avrana.itch.io/malfoid",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the creator’s itch.io Download Now control if the project is available to your account; preserve the author credit shown on the page.",
+          "notes": "The listing says it is loosely based on a story by nomootwo on Wattpad. Keep the original author distinct from Avrana and @nightowl_trades."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Nikorov_Liya",
+      "profile_url": "https://x.com/Nikorov_Liya",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "NWBroJaneway",
+      "profile_url": "https://x.com/NWBroJaneway",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "OrangTheMan",
+      "profile_url": "https://x.com/OrangTheMan",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Otaku42147983",
+      "profile_url": "https://x.com/Otaku42147983",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "patricck0",
+      "profile_url": "https://x.com/patricck0",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "PhntmWhsprs",
+      "profile_url": "https://x.com/PhntmWhsprs",
+      "categories": [
+        "Miscellaneous individuals with useful prompts (story frames / ideas)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Ping_Enthusiast",
+      "profile_url": "https://x.com/Ping_Enthusiast",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "plywoodtrain_",
+      "profile_url": "https://x.com/plywoodtrain_",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Indexed posts express an intention to start writing Malfoid after seeing the trend; no story link was confirmed.",
+      "works": [
+        {
+          "title": "Writing-intent lead",
+          "url": "https://x.com/plywoodtrain_",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Profile-level source only; exact post and completed draft not found."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "potta_ka",
+      "profile_url": "https://x.com/potta_ka",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "re0nnn",
+      "profile_url": "https://x.com/re0nnn",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Posted Malfoid fan art on or around 2026-10-04; no associated story was found.",
+      "works": [
+        {
+          "title": "Malfoid fan-art post (ID not recovered)",
+          "url": "https://news.para-daily.com/2026/10/05/harry-potter-malfoid-artist-1005/",
+          "source_updated": "2026-10-04",
+          "checked_on": "2026-10-05",
+          "download_method": "Link to creator/post only; use platform-enabled download controls.",
+          "notes": "The article links the image preview at https://pic.twitter.com/6WkmPvBZ3b; direct post permalink is unavailable in the article."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "redteneri",
+      "profile_url": "https://x.com/redteneri",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "rezelover25",
+      "profile_url": "https://x.com/rezelover25",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "rezuowa",
+      "profile_url": "https://x.com/rezuowa",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Credited as artist on a Malfoid image shared to Reddit; no story authorship is indicated.",
+      "works": [
+        {
+          "title": "Harry and Malfoid image share",
+          "url": "https://www.reddit.com/r/Manga_Manwa_Manhua/comments/1wwp6ck/harry_and_malfoid/",
+          "source_updated": "2026-10-03",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the Reddit post link/save feature; do not download or redistribute the image absent creator permission.",
+          "notes": "The post identifies Rezuowa as artist; comments mention a fanfic by another/unclear author, not Rezuowa."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Sachi_Hwa",
+      "profile_url": "https://x.com/Sachi_Hwa",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "SheosMan117",
+      "profile_url": "https://x.com/SheosMan117",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "sonicspeed0705",
+      "profile_url": "https://x.com/sonicspeed0705",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "SonikBuster",
+      "profile_url": "https://x.com/SonikBuster",
+      "categories": [
+        "Individuals producing animation (audio / no audio)"
+      ],
+      "status": "unverified",
+      "checked_on": "2026-10-05",
+      "summary": "The indexed profile resolves to a composer/arranger and music catalog; no Malfoid animation or story was found in this pass.",
+      "works": [
+        {
+          "title": "Creator profile / music catalog",
+          "url": "https://djsonikbuster.wixsite.com/sonikbuster/about",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the source’s own listen/share controls; no Malfoid work download was identified."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "spookyh8r",
+      "profile_url": "https://x.com/spookyh8r",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "A short X story has Harry invite Draconia to the Yule Ball after losing a bet; direct post and a Rattibha unroll were indexed.",
+      "works": [
+        {
+          "title": "Yule Ball bet story",
+          "url": "https://x.com/spookyh8r/status/2105520724546822563",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Rattibha unroll: https://en.rattibha.com/thread/2105520724546822563"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Strittposter",
+      "profile_url": "https://x.com/Strittposter",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Progress posts describe a Harry/Malfoid manga project called “Two Houses,” including a monochrome format change and rough-draft update. Direct post URL was not recovered.",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "Profile: https://x.com/Strittposter. Third-party discovery mirror: https://site.twstalker.com/AllahingMutant. Confirm the direct post before treating as a story link."
+    },
+    {
+      "handle": "SutejaART",
+      "profile_url": "https://x.com/SutejaART",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "sytokun",
+      "profile_url": "https://x.com/sytokun",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "Tea_Patriarch",
+      "profile_url": "https://x.com/Tea_Patriarch",
+      "categories": [
+        "Individuals producing comic-style, fanfic-esque art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "teahrii",
+      "profile_url": "https://x.com/teahrii",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "The_Author_Ruin",
+      "profile_url": "https://x.com/The_Author_Ruin",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "TheChroNikler",
+      "profile_url": "https://x.com/TheChroNikler",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "theexileddraco",
+      "profile_url": "https://x.com/theexileddraco",
+      "categories": [
+        "Individuals producing fanfics (varying length)",
+        "Individuals producing comic-style, fanfic-esque art",
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Recent indexed prompts include a Battle of Hogwarts continuation and a Room of Requirement rescue; these are plot seeds, not verified completed stories.",
+      "works": [
+        {
+          "title": "Battle of Hogwarts / rescue plot prompts",
+          "url": "https://x.com/search?q=from%3Atheexileddraco%20Malfoid%20%22Battle%20of%20Hogwarts%22",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Bookmark the creator profile and verify a direct post link; use X’s text snapshot method only for personal reference.",
+          "notes": "Search and third-party mirrors supplied the lead; no direct status permalink was recovered."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "TheOldStructure",
+      "profile_url": "https://x.com/TheOldStructure",
+      "categories": [
+        "Individuals reiterating the first book (full saga?)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the 2026-10-05 public indexed search. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "TheRealKitty019",
+      "profile_url": "https://x.com/TheRealKitty019",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "unverified",
+      "checked_on": "2026-10-05",
+      "summary": "A third-party indexed snippet describes a book-four/Tournament-era story idea, but no direct story permalink or full work was found.",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "Direct profile: https://x.com/TheRealKitty019. Discovery-only mirror: https://twstalker.com/Goondius. Do not treat snippet as a confirmed complete story."
+    },
+    {
+      "handle": "TKohoto",
+      "profile_url": "https://x.com/TKohoto",
+      "categories": [
+        "Miscellaneous individuals with useful prompts (story frames / ideas)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Shared an ideation post about unresolved Slytherin and Malfoy redemption possibilities; no complete story was linked.",
+      "works": [
+        {
+          "title": "Malfoid story/character idea",
+          "url": "https://x.com/TKohoto/status/2105697299485614306",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Use the canonical X link; bookmark it. For text-only personal notes, browser Print > Save as PDF. Do not use third-party downloaders for attached media.",
+          "notes": "Rattibha unroll: https://en.rattibha.com/thread/2105697299485614306"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "toyxyz3",
+      "profile_url": "https://x.com/toyxyz3",
+      "categories": [
+        "Individuals producing animation (audio / no audio)"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "Published MiniMax-H3-generated Malfoy animation tests on October 1–2, 2026.",
+      "works": [
+        {
+          "title": "MiniMax-H3 Malfoid test",
+          "url": "https://x.com/toyxyz3/status/2105883444119298088",
+          "source_updated": "2026-10-01",
+          "checked_on": "2026-10-05",
+          "download_method": "Use X’s built-in video download only if enabled; otherwise keep the post link or request a creator copy."
+        },
+        {
+          "title": "October 2 follow-up test",
+          "url": "https://x.com/toyxyz3",
+          "source_updated": "2026-10-02",
+          "checked_on": "2026-10-05",
+          "download_method": "Profile-level link; follow the source’s own media controls.",
+          "notes": "A contemporaneous article identifies an Oct. 2 follow-up image/media link, but an exact status permalink was not recovered: https://thisisgamethailand.com/news/malfoid-ai-draco-malfoy-female-harry-potter/"
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "udon0531",
+      "profile_url": "https://x.com/udon0531",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "VladVoice",
+      "profile_url": "https://x.com/VladVoice",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "Vlakdra",
+      "profile_url": "https://x.com/Vlakdra",
+      "categories": [
+        "Individuals producing comic-style, fanfic-esque art"
+      ],
+      "status": "unverified",
+      "checked_on": "2026-10-05",
+      "summary": "Search surfaced unrelated fan art; no Malfoid story or work was found in this pass.",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "Profile: https://x.com/Vlakdra. No attributable Malfoid direct link found."
+    },
+    {
+      "handle": "wgtmy_",
+      "profile_url": "https://x.com/wgtmy_",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "wonbin_lee_",
+      "profile_url": "https://x.com/wonbin_lee_",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_reviewed",
+      "checked_on": null,
+      "summary": "",
+      "works": [],
+      "candidate_posts": []
+    },
+    {
+      "handle": "WyattSmith21377",
+      "profile_url": "https://x.com/WyattSmith21377",
+      "categories": [
+        "Individuals producing scores, songs, or tracks"
+      ],
+      "status": "partially_verified",
+      "checked_on": "2026-10-05",
+      "summary": "The supplied directory includes a Suno track, but its relationship to the account was not independently confirmed.",
+      "works": [
+        {
+          "title": "Suno track",
+          "url": "https://suno.com/song/184bd0d2-0c60-4217-ae68-991d316d6c67?sh=IuEDAZMbPRG6vJYR",
+          "source_updated": "unknown",
+          "checked_on": "2026-10-05",
+          "download_method": "Use Suno’s own play/share/download controls if available to the creator or listener; otherwise keep the link."
+        }
+      ],
+      "candidate_posts": []
+    },
+    {
+      "handle": "z_ARTs96",
+      "profile_url": "https://x.com/z_ARTs96",
+      "categories": [
+        "Individuals producing high-grade, movement-inspiring art"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    },
+    {
+      "handle": "zer0chroma",
+      "profile_url": "https://x.com/zer0chroma",
+      "categories": [
+        "Individuals producing fanfics (varying length)"
+      ],
+      "status": "not_found_in_indexed_search",
+      "checked_on": "2026-10-05",
+      "summary": "",
+      "works": [],
+      "candidate_posts": [],
+      "verification_note": "No attributable Malfoid story/project surfaced in the assigned public indexed search on 2026-10-05. This is not evidence that the account is inactive or has no work; use the browser review workflow."
+    }
+  ],
+  "last_catalog_updated": "2026-10-05"
+}
