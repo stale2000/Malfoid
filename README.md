@@ -14,9 +14,22 @@ Malfoid reimagines *Harry Potter and the Philosopher’s Stone* as a feature-len
 
 Bring the whole first-film adventure to life as anime, scene by scene—from script and character design to voices, storyboards, animation, music, and sound.
 
+## See and read Malfoid
+
+![Anime key art: Draconia and Harry face each other across the Mirror of Erised.](media/images/mirror-erised-anime-key-art.png)
+
+![Four Spare Quills scene art: Draconia packs for Hogwarts while her mother holds the trunk open.](media/images/four-spare-quills-anime-art.png)
+
+[![Contact sheet from the Mirror of Erised anime scene](media/images/mirror-erised-v5-contact-sheet.png)](media/video/mirror-erised-v5-silent-preview.mp4)
+
+[Watch the 15-second silent anime scene preview](media/video/mirror-erised-v5-silent-preview.mp4) · [Read how the media was made](media/README.md)
+
+- [Four Spare Quills](stories/four-spare-quills.md) — Draconia packs four extra quills for three classmates she has not met yet.
+- [One Race](stories/one-race.md) — Draconia and Harry try to restart their rivalry after an argument.
+
 ## Feature checklist
 
-- [x] **Prove the anime direction:** a short Mirror of Erised scene exists as a local proof of concept.
+- [x] **Preview the anime direction:** a 15-second visual-only Mirror of Erised scene is ready to watch above.
 - [ ] **Lock the story and script:** shape the full feature so Draconia has her own goals, relationships, and choices throughout the adventure.
 - [ ] **Finish the anime design bible:** settle character sheets, expressions, costumes, Hogwarts locations, props, color, lighting, and spell effects.
 - [ ] **Set the voices and sound:** finalize performances and pronunciation; plan dialogue recording, music, effects, and the final mix.
@@ -34,6 +47,6 @@ A great first contribution: pitch a Draconia-and-Harry scene with a clear goal, 
 
 [Explore the production plan](docs/production-plan.md) · [Read about the local source movie](docs/source-material.md)
 
-*An unofficial fan project. The source film is kept local and is not included here. This repository’s original documentation is licensed under [CC BY 4.0](LICENSE); see [licensing notes](LICENSES.md) for third-party material.*
+*An unofficial fan project. The source film stays local and is not included here. See [licensing notes](LICENSES.md) for asset terms and credits.*
 
 Maintained by [@stale2000](https://github.com/stale2000).
