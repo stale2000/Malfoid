@@ -56,6 +56,18 @@ python3 inspiration/collect.py download-ao3 https://archiveofourown.org/works/12
 
 Downloads remain private local copies; they are never added to the generated catalog or Git. For a work in progress, rerun the command after updates to fetch a newer copy.
 
+### Convert an EPUB to plain text
+
+For an EPUB you are permitted to keep, use the standard-library converter. It follows the EPUB reading order, keeps chapter and paragraph breaks, and needs no packages beyond Python 3. From the repository root, for example:
+
+```sh
+python3 inspiration/epub_to_text.py \
+  "inspiration/downloads/stories/nomootwo-416789252-epub-2026-10-05.epub" \
+  "inspiration/epub-text/nomootwo-416789252-text-2026-10-05.txt"
+```
+
+Replace the input and output paths for other books. The script refuses to overwrite an existing text file; remove the old output first if you want to regenerate it. EPUBs stay under the ignored `inspiration/downloads/stories/` folder, while converted text goes in the unignored `inspiration/epub-text/` folder and appears in `git status`. Conversion does not stage or commit the output; only commit or redistribute it when permission covers publication. The converter omits images and ebook layout.
+
 For X API setup and endpoint behavior, see [user lookup](https://docs.x.com/x-api/users/get-user-by-username), [user posts timeline](https://docs.x.com/x-api/users/get-posts), and [application-only authentication](https://docs.x.com/fundamentals/authentication/oauth-2-0/application-only). Access and pricing can change; the script deliberately requires an explicit cost acknowledgement before scanning.
 
 The local design-reference set currently copied into `downloads/images/malfoid-long-hair/` is private and ignored by Git. The tracked catalog records its attribution and reuse limits.

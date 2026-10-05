@@ -54,6 +54,16 @@ For the official AO3 format and refresh rules, see its [Downloading Fanworks FAQ
 - **Record checked:** 2026-10-05; the page could not be verified by the web reader. Keep this as an unresolved discovery lead until the linked work can be inspected.
 - **Save/update:** If the link resolves and AO3 offers its normal **Download** menu, download only through that menu and save any permitted copy locally under `downloads/stories/`. Otherwise, keep the link and record why no copy was saved. Never use a mirror or bypass restriction to obtain a work.
 
+### *Draconia Malfoy and the Boy Who Said No* — Wattpad
+
+- **Link:** [Wattpad story 416789252](https://www.wattpad.com/story/416789252-draconia-malfoy-and-the-boy-who-said-no)
+- **Creator:** nomootwo (as listed in downloaded Wattpad metadata); the X teaser was posted by @nightowl_trades.
+- **Source date:** Downloaded metadata reported a modification time of 2026-10-05; the story was marked ongoing with 17 parts at retrieval.
+- **Record checked:** 2026-10-05 via the WattpadDownloader metadata response; the Wattpad story page itself was not available to the browser reader.
+- **What it is:** A Fem!Draco/Malfoid and Harry slow-burn retelling. The story blurb and completion flag disagreed in the returned metadata, so treat its completion status as unverified.
+- **Local copy:** `downloads/stories/nomootwo-416789252-epub-2026-10-05.epub` (EPUB, 259,900 bytes; SHA-256 `9cb394d9f94be98bd834ac53602b7ae93eacb7c92c3bd8da946a6934849ca98c`).
+- **Save/update:** The project owner reports permission to archive this story and has directed publication of its extracted text in the Project Malfoid repository. The EPUB itself was exported without logging into Wattpad using [WattpadDownloader](https://github.com/TheOnlyWayUp/WattpadDownloader), a community tool rather than a Wattpad export feature. Keep the EPUB in the ignored downloads folder; do not redistribute copies elsewhere. Confirm permission again before obtaining updates.
+
 ### Trend-inspired recommendation thread — r/HPfanfiction
 
 - **Link:** [Any recommendations for female Malfoy / Harry fics?](https://www.reddit.com/r/HPfanfiction/comments/1wsii11/any_recommendations_for_female_malfoy_harry_fics/)
