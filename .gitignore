@@ -1,0 +1,27 @@
+# Local source footage and production media stay outside Git.
+/production/assets/source/
+/production/assets/source-review/
+/production/assets/references/*.pdf
+/production/renders/
+/production/delivery/
+
+# Keep the internal development archive out of the public repo by default.
+# Publish reviewed material in the public docs/, creative/, design/, audio/,
+# films/, and releases/ structure instead.
+/.comfy/
+/.omx/
+/assets/
+/outputs/
+/production/
+/research/
+/blueprints/
+/fragments/
+/comfy.yaml
+
+# Local machine files and secrets.
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
