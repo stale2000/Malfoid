@@ -2,7 +2,7 @@
 
 **Catalog last updated:** 2026-10-05. Each entry records a canonical link, the source's posted/updated date when available, the date we last checked the record, and a way to save or refresh a private copy. “Not exposed” means the platform did not provide a reliable edit timestamp in this review. A catalog date is not a claim that a work itself changed that day.
 
-No creator-authored story or artwork is included in this catalog. Keep any permitted offline reading copy in the ignored `downloads/` folder; never commit the copy. If a source has no authorized download option, retain its link and use the site's own saved-items feature.
+This catalog stores source links and attribution. Keep downloaded EPUB originals in the ignored `downloads/` folder. When the project owner has permission to publish a plain-text extract in this repository, put it in the unignored `epub-text/` folder and retain its source link here. Do not redistribute beyond the permission granted. If a source has no authorized download option, retain its link and use the site's own saved-items feature.
 
 For the official AO3 format and refresh rules, see its [Downloading Fanworks FAQ](https://archiveofourown.org/faq/downloading-fanworks). AO3's own page is the authority; if it is unavailable, use the work page's visible controls and do not bypass access settings.
 
@@ -35,24 +35,30 @@ For the official AO3 format and refresh rules, see its [Downloading Fanworks FAQ
 ### *Worst Enemy* — AO3
 
 - **Link:** [AO3 work 93605026](https://archiveofourown.org/works/93605026)
+- **Creator:** lb_n0o (as recorded in the local EPUB metadata).
 - **Source date:** Exact publish/update date not captured in the earlier discovery pass.
-- **Record checked:** 2026-10-05; direct AO3 page was unavailable to the web reader, so title and first-year status remain based on the earlier listing-level discovery.
+- **Record checked:** 2026-10-05; direct AO3 page was unavailable to the web reader. Title and creator were confirmed from the local EPUB metadata.
 - **What it is:** Listed as a trend-inspired first-year slow-burn story; the opening was noted as using a rejected handshake. Treat as a discovery lead, not a verified read-through.
-- **Save/update:** If the work page is available, use AO3's own **Download** button and choose EPUB, HTML, PDF, AZW3, or MOBI if offered. If downloads are disabled or the work is restricted, keep the link only; do not bypass the setting. To update a WIP copy, download again from the work page and replace the old local file. Store any permitted copy only in `downloads/stories/`.
+- **Local copy:** `downloads/stories/ao3-93605026.epub`; text extract: `epub-text/ao3-93605026-text-2026-10-05.txt`.
+- **Save/update:** The existing EPUB is retained locally. For an update, use AO3's own **Download** button and choose a format it offers. If downloads are disabled or the work is restricted, keep the link only; do not bypass the setting. The text extract is tracked per the project owner's instruction; confirm permission again before updating or redistributing it.
 
 ### *Drakania Malfoy meets the Boy-Who-Lived* — BombaBomba
 
 - **Link:** [AO3 work 93572206](https://archiveofourown.org/works/93572206)
 - **Source date:** Published 2026-09-30; marked complete in the checked AO3 listing.
 - **Record checked:** 2026-10-05 via the work listing. This is a robes-shop first-meeting AU story; the robes-shop meeting is new material relative to the first-film adaptation.
-- **Save/update:** Use AO3's **Download** button and choose a format if offered. If unavailable, retain the link; do not bypass download or access controls. For an allowed offline copy, save under `downloads/stories/`. Reopen the work page before replacing a copy; if AO3 marks it complete, refresh only when the source date changes or the link has been removed/reposted.
+- **Local copy:** `downloads/stories/ao3-93572206.epub`; text extract: `epub-text/ao3-93572206-text-2026-10-05.txt`.
+- **Save/update:** The existing EPUB is retained locally. For an update, use AO3's **Download** button and choose a format if offered; if unavailable, retain the link and do not bypass download or access controls. The text extract is tracked per the project owner's instruction; confirm permission again before updating or redistributing it. Reopen the work page before replacing a completed work copy.
 
-### First-year fanfic listing — AO3 work 93789121
+### *The Diary of Draco Malfoy, A Malfoid story, Year 1.* — GeneralDunwich (AO3)
 
 - **Link:** [AO3 work 93789121](https://archiveofourown.org/works/93789121)
-- **Source date:** Title and publish/update date were not captured in the discovery pass.
-- **Record checked:** 2026-10-05; the page could not be verified by the web reader. Keep this as an unresolved discovery lead until the linked work can be inspected.
-- **Save/update:** If the link resolves and AO3 offers its normal **Download** menu, download only through that menu and save any permitted copy locally under `downloads/stories/`. Otherwise, keep the link and record why no copy was saved. Never use a mirror or bypass restriction to obtain a work.
+- **Chapter:** [Chapter 1: Prequel](https://archiveofourown.org/works/93789121/chapters/250298276)
+- **Creator:** GeneralDunwich (as recorded in the local EPUB metadata).
+- **Source date:** Publish/update date not captured.
+- **Record checked:** 2026-10-05; the page could not be verified by the web reader. The local EPUB metadata and the downloaded chapter URL note identify the work and chapter.
+- **Local copy:** `downloads/stories/ao3-93789121.epub`; text extract: `epub-text/ao3-93789121-text-2026-10-05.txt`.
+- **Save/update:** The existing EPUB is retained locally. For an update, use AO3's own **Download** menu when available and do not bypass access or download controls. The text extract is tracked per the project owner's instruction; confirm permission again before updating or redistributing it.
 
 ### *Draconia Malfoy and the Boy Who Said No* — Wattpad
 
