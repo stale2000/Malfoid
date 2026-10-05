@@ -25,3 +25,13 @@
 !.env.example
 __pycache__/
 *.py[cod]
+
+# Local scene renders: keep scene packets and links in Git, not video binaries.
+/films/scenes/**/*.mp4
+/films/scenes/**/*.mov
+/films/scenes/**/*.mkv
+/films/scenes/**/*.webm
+
+# Downloaded third-party inspiration stays local; publish source links and notes only.
+/inspiration/downloads/*
+!/inspiration/downloads/README.md

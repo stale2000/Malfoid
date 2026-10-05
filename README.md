@@ -45,7 +45,7 @@ Pick a task above, pitch a scene, or help shape the anime look. [Open an issue](
 
 A great first contribution: pitch a Draconia-and-Harry scene with a clear goal, conflict, and emotional turn.
 
-[Explore the production plan](docs/production-plan.md) · [Read about the local source movie](docs/source-material.md)
+[Explore the production plan](docs/production-plan.md) · [Browse story ideation and working drafts](creative/README.md) · [Read about the local source movie](docs/source-material.md)
 
 *An unofficial fan project. The source film stays local and is not included here. See [licensing notes](LICENSES.md) for asset terms and credits.*
 

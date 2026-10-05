@@ -22,6 +22,9 @@ Malfoid's long-term goal is a complete anime-style reimagining of the first Harr
 
 ## Scene organization
 
+Use [`films/scenes/`](../films/scenes/README.md) for scene packets and local scene renders. The folder documents stable scene IDs and keeps MP4/MOV/MKV/WebM renders out of Git; publish only a reviewed cut by linking a durable hosted release. Story seeds and working screenplay drafts live in [`creative/`](../creative/README.md), while downloaded third-party inspiration stays local in the ignored [`inspiration/downloads/`](../inspiration/README.md) library with tracked source links.
+
+
 Each feature scene has a stable ID such as `MF01-SC010`; shots use `MF01-SC010-SH003`. IDs stay stable when scenes move in the edit. A scene packet links its script revision, shots, storyboards, designs, voice takes, sound cues, captions, production status, and review notes. Shared characters, locations, voices, and props each have one master asset record that scenes reference.
 
 Track script, design, boards, animatic, voice, picture, sound, captions, provenance, and release readiness separately. A change to dialogue can affect voice, timing, lip sync, and captions. A costume change can affect the shots that use it. Mark dependent work for review when an input changes.
