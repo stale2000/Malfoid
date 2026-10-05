@@ -1,5 +1,9 @@
 # Malfoid
 
+## [Join the Malfoid Discord](https://discord.gg/6SYAbr6YsT)
+
+**Meet the community, share scene ideas, and follow the anime feature as it takes shape.**
+
 **What if Draco Malfoy had been a girl all along?**
 
 Meet Draconia Malfoy: proud, razor-witted, and determined to beat Harry at his own game. At Hogwarts, every clash sparks another challenge—and their rivalry starts to feel a lot like a crush. Suddenly there’s much more at stake than points, pride, or the next clever comeback.
