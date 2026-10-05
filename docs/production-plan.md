@@ -1,12 +1,12 @@
 # Production plan
 
-Malfoid's long-term goal is a complete anime-style reimagining of the first Harry Potter film. Production will begin by checking the existing short anime scene, then measure the work needed before committing to a full feature schedule. The public repository will grow through individually reviewed story, design, production-source, and media releases.
+Project Malfoid's long-term goal is a complete anime-style reimagining of the first Harry Potter film. Production will begin by checking the existing short anime scene, then measure the work needed before committing to a full feature schedule. The public repository will grow through individually reviewed story, design, production-source, and media releases.
 
 ## Production parts
 
 | Part | Deliverables |
 |---|---|
-| Story | Brief, feature outline, Malfoid's character arc, emotional beats |
+| Story | Brief, feature outline, Draconia's character arc, emotional beats; follow the [story and character north star](writing-north-star.md) |
 | Script | Authoritative feature screenplay, dialogue, revisions |
 | Continuity | Timeline, character knowledge, relationship and AU changes |
 | Anime style | Shared design rules for line, color, lighting, framing, motion, and effects |

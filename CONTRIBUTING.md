@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in Malfoid. The project is in early development; useful contributions include feedback on the public plan, story structure, anime design notes, scene-packet formats, and production documentation.
+Thanks for your interest in Project Malfoid. The project is in early development; useful contributions include feedback on the public plan, story structure, anime design notes, scene-packet formats, and production documentation.
 
 Before opening a pull request:
 

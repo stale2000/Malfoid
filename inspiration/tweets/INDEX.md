@@ -29,3 +29,9 @@ Captured one post at a time from the signed-in Chrome browser on 2026-10-05. Thi
 | Year One story announcement (AO3 work 93789121) | @GenIronwood | [X post](https://x.com/GenIronwood/status/2106219511166951637) · [AO3 work](https://archiveofourown.org/works/93789121) | [Tweet text and download method](2026-10-02_genironwood_2106219511166951637.md) |
 
 The Wattpad page could not be opened in the browser, so its direct story download options are not verified. Use the source page's own reading/offline controls if available; no external downloader was used.
+
+## North-star essays
+
+| Reference | Account | Source | Project record | Text capture |
+|---|---|---|---|---|
+| Conflicting wants and earned character change | @Devon_Eriksen_ | [X post](https://x.com/Devon_Eriksen_/status/2106772018666349053) | [North-star note](2026-10-05_devon_eriksen_2106772018666349053-north-star.md) | Local only; not included in Git |

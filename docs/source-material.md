@@ -1,6 +1,6 @@
 # Local source movie
 
-The Malfoid project has a user-supplied local reference copy of *Harry Potter and the Philosopher's Stone* (2001), labeled as the extended edition. It supports private story, timing, and production research. The edition label describes the supplied file; it is not independent authentication of a studio release.
+Project Malfoid uses a user-supplied local reference copy of *Harry Potter and the Philosopher's Stone* (2001), labeled as the extended edition. It supports private story, timing, and production research. The edition label describes the supplied file; it is not independent authentication of a studio release.
 
 The file is stored locally at:
 

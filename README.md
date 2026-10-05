@@ -1,6 +1,6 @@
-# Malfoid
+# Project Malfoid
 
-## [Join the Malfoid Discord](https://discord.gg/6SYAbr6YsT)
+## [Join the Project Malfoid Discord](https://discord.gg/6SYAbr6YsT)
 
 **Meet the community, share scene ideas, and follow the anime feature as it takes shape.**
 
@@ -8,13 +8,13 @@
 
 Meet Draconia Malfoy: proud, razor-witted, and determined to beat Harry at his own game. At Hogwarts, every clash sparks another challenge—and their rivalry starts to feel a lot like a crush. Suddenly there’s much more at stake than points, pride, or the next clever comeback.
 
-Malfoid reimagines *Harry Potter and the Philosopher’s Stone* as a feature-length anime, with Draconia and Harry sharing the lead. Her own ambitions, friendships, mistakes, and decisions shape the adventure, alongside sharp comedy, awkward kindness, and an age-appropriate first-year crush.
+Project Malfoid reimagines *Harry Potter and the Philosopher’s Stone* as a feature-length anime, with Draconia and Harry sharing the lead. Her own ambitions, friendships, mistakes, and decisions shape the adventure, alongside clever scene turns, awkward kindness, and an age-appropriate first-year crush.
 
 ## The goal
 
 Bring the whole first-film adventure to life as anime, scene by scene—from script and character design to voices, storyboards, animation, music, and sound.
 
-## See and read Malfoid
+## See and read Project Malfoid
 
 ![Anime key art: Draconia and Harry face each other across the Mirror of Erised.](media/images/mirror-erised-anime-key-art.png)
 
@@ -41,11 +41,11 @@ Bring the whole first-film adventure to life as anime, scene by scene—from scr
 
 ## Help build it
 
-Pick a task above, pitch a scene, or help shape the anime look. [Open an issue](https://github.com/stale2000/Malfoid/issues/new) to share an idea or discuss how to take on a task; [read the contribution guide](CONTRIBUTING.md) before sending work.
+Pick a task above, pitch a scene, or help shape the anime look. [Open an issue](https://github.com/stale2000/ProjectMalfoid/issues/new) to share an idea or discuss how to take on a task; [read the contribution guide](CONTRIBUTING.md) before sending work.
 
 A great first contribution: pitch a Draconia-and-Harry scene with a clear goal, conflict, and emotional turn.
 
-[Explore the production plan](docs/production-plan.md) · [Browse story ideation and working drafts](creative/README.md) · [Read about the local source movie](docs/source-material.md)
+[Explore the production plan](docs/production-plan.md) · [Read the story and character north star](docs/writing-north-star.md) · [Browse story ideation and working drafts](creative/README.md) · [Read about the local source movie](docs/source-material.md)
 
 *An unofficial fan project. The source film stays local and is not included here. See [licensing notes](LICENSES.md) for asset terms and credits.*
 

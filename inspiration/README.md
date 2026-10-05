@@ -1,6 +1,6 @@
 # Inspiration library
 
-Use this folder to keep track of stories and visual references that inform Malfoid's development. The [tracked source catalog](sources.md) gives every item a link, source date (when available), catalog check date, short use note, and a source-appropriate way to save and refresh a private copy. Downloaded copies belong under `downloads/` and stay local; Git ignores that folder so third-party stories, art, and media are not redistributed by this repository.
+Use this folder to keep track of stories and visual references that inform Project Malfoid's development. The [tracked source catalog](sources.md) gives every item a link, source date (when available), catalog check date, short use note, and a source-appropriate way to save and refresh a private copy. Downloaded copies belong under `downloads/` and stay local; Git ignores that folder so third-party stories, art, and media are not redistributed by this repository.
 
 ## How to use it
 
@@ -13,7 +13,7 @@ Use this folder to keep track of stories and visual references that inform Malfo
 
 The [creator directory](creator-directory.md) is a user-supplied list of artists, animators, writers, and other project inspirations. Its profile URLs are leads constructed from handles and are not verified endorsements or credits.
 
-The [story-tweet index](tweets/INDEX.md) tracks the tweet text files captured manually from the regular browser. The folder is local and uncommitted while the account-by-account review continues.
+The [story-tweet index](tweets/INDEX.md) records reviewed source links and project-authored use notes. Only publish captured post text when the documented permission covers publication; keep archive-only captures local. The index distinguishes verified browser captures from owner-supplied text that could not be independently checked.
 
 ## Runnable research script
 
